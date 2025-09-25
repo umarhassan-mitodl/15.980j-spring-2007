@@ -3,6 +3,8 @@ content_type: page
 description: This section provides information about the final paper assignment. Sample
   student presentations from 2006 are also presented here. All work is courtesy of
   the students named and used with permission.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
