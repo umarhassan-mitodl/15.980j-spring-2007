@@ -4,6 +4,8 @@ description: Lecture slides with an introduction to the course.
 file: /courses/15-980j-organizing-for-innovative-product-development-spring-2007/557566ce137085aa65068bf78d116af5_lec1.pdf
 file_size: 126290
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
