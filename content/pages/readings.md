@@ -46,7 +46,7 @@ Technology transfer: Where and how do new product ideas originate?
 {{< tdopen >}}
 
 
-{{% resource_link "486f3d7b-5256-4990-9dc6-5fe6d491edf2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Allen, Thomas J. _Managing the Flow of Technology_. Cambridge, MA: MIT Press, 1984, chapters 1 and 2. ISBN: 9780262510271.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510271) Allen, Thomas J. _Managing the Flow of Technology_. Cambridge, MA: MIT Press, 1984, chapters 1 and 2. ISBN: 9780262510271.
 
 Allen, T. J., D. B. Hyman, and D. L. Pinckney. "Transferring Technology to the Small Firm: A Study of Technology Transfer in Three Countries." _Research Policy_ 12, no. 4 (1983): 199-211.
 
@@ -82,7 +82,7 @@ Allen, Thomas J. "Distinguishing Engineers from Scientists." In _The Human Side 
 The technological gatekeeper: Care and feeding
 {{< tdclose >}}
 {{< tdopen >}}
-{{% resource_link "486f3d7b-5256-4990-9dc6-5fe6d491edf2" "![Buy at MIT Press](/images/mp_logo.gif)" %}} Allen, Thomas J. _Managing the Flow of Technology_. Cambridge, MA: MIT Press, 1984, chapters 4, 5, and 6. ISBN: 9780262510271.
+[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/9780262510271) Allen, Thomas J. _Managing the Flow of Technology_. Cambridge, MA: MIT Press, 1984, chapters 4, 5, and 6. ISBN: 9780262510271.
 {{< tdclose >}}
 
 {{< trclose >}}
